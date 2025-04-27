@@ -16,4 +16,4 @@ A star 避障路径算法可视化小工具
 
 pip install -r requirements.txt
 
-![Uploading 微信图片_20250427151936.png…]()
+![alt text]([image - url](https://ibb.co/PJxyBKK))
