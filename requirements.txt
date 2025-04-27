@@ -1,0 +1,12 @@
+geopandas>=0.13.2
+shapely>=2.0.1
+pyproj>=3.5.0
+numpy>=1.24.3
+matplotlib>=3.7.1
+tkinter
+heapq
+csv
+pandas>=2.0.1
+threading
+ttk
+scrolledtext
