@@ -20,4 +20,4 @@ pip install -r requirements.txt
 ![alt text](interface.png)
 
 四、保存格式
-![alt text](Save format.png)
+![alt text](Saveformat.png)
